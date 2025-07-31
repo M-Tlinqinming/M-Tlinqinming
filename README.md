@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @M-Tlinqinming
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning AI agent,image ,vidio,sound
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...lqmisthebest@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 我是MT / I'm MT
 
-<!---
-M-Tlinqinming/M-Tlinqinming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 关于我 / About Me
+- 🌍 中国东莞 / Based in Dongguan, China  
+- 🤖 AI 爱好者，研究多模态技术（图像、视频、语音） / AI enthusiast studying multi‑modal technologies (image, video & audio)  
+- 🏃 热爱运动 / Fitness and sports lover  
+- 💰 关注商业机会与理财 / Interested in entrepreneurship and finance  
+- 💭 追求活在当下的生活理念 / Believe in living in the moment  
+
+## 联系方式 / Contact
+- 📫 电子邮箱：lqmisthebest@gmail.com / Email: lqmisthebest@gmail.com  
